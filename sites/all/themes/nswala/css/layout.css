@@ -35,3 +35,10 @@ body.two-sidebars #main-squeeze {
   display:block;
   overflow:hidden;
 }
+.footer.container{
+  width:100%;
+}
+
+.footer.container .region.region-footer{
+  width:1170px;
+}

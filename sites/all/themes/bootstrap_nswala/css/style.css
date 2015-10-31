@@ -72,3 +72,7 @@ p.user-default{width: 25px;height: 25px;line-height: 25px;text-transform: upperc
 .footer_right ul li a:hover,
 .footer_left ul li a:hover{text-decoration:none;}
 .footer_left ul li p{font-size: 14px;}
+
+.panel-panel.panel-col-top{display:block;overflow:hidden;}
+.footer.container{width:100%;}
+.footer.container .region.region-footer{width:1170px;}

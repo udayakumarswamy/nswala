@@ -46,18 +46,6 @@ p.user-default{width: 25px;height: 25px;line-height: 25px;text-transform: upperc
 
 
 
-.panel-panel.panel-col-top{
-  display:block;
-  overflow:hidden;
-}
-.footer.container{
-  width:100%;
-}
-
-.footer.container .region.region-footer{
-  width:1170px;
-}
-
 
 .footer{background:#000;padding:10px 0px;margin-top: 30px;}
 .block-menu ul{margin:0px;padding:0px;}

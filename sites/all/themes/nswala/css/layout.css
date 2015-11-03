@@ -30,15 +30,3 @@ body.sidebar-right #main-squeeze {
 body.two-sidebars #main-squeeze {
   margin: 0 20px;
 }
-
-.panel-panel.panel-col-top{
-  display:block;
-  overflow:hidden;
-}
-.footer.container{
-  width:100%;
-}
-
-.footer.container .region.region-footer{
-  width:1170px;
-}

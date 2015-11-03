@@ -4,6 +4,7 @@ jQuery(document).ready(function($) {
 	$('.navbar-header').addClass('col-lg-3 col-md-3 col-sm-3 col-xs-12 no-pad');
 	$('.navbar-collapse').addClass('col-lg-9 col-md-9 col-sm-9 col-xs-12 text-right pull-right');
 
+	$('.bootstrap-threecol-stacked .row:nth-child(2)').addClass('main-content');
 
 	$('.pane-home-page-my-announcements .views-row').addClass('col-lg-6 col-md-6 col-sm-6 col-xs-12 announce_descp no-pad');
 	$('.pane-home-page-my-announcements .views-row-first').removeClass('col-lg-6 col-md-6 col-sm-6 col-xs-12 announce_descp no-pad');

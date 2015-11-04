@@ -16,4 +16,6 @@ jQuery(document).ready(function($) {
 	$('footer .block-copyright-block').addClass('col-lg-3 col-md-3 col-sm-3 col-xs-12');
 	$('footer .block-menu').addClass('col-lg-6 col-md-6 col-sm-6 col-xs-12 footer_left');
 	$('footer .block-widgets').addClass('col-lg-3 col-md-3 col-sm-3 col-xs-12 footer_right');
+
+	$('img[title="application/pdf"]').attr('src', 'http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png');
 });

@@ -30,9 +30,9 @@ background-size:100% auto;}
 .myinbox .views-row{border-bottom: 1px solid #d4d4d4;display: block;overflow: hidden;}
 .myinbox .views-row a{font-weight: 600;color: #232323;font-size: 15px;line-height: 18px;}
 .myinbox .views-row .field-content{margin: 0px;font-size: 11px;padding-bottom: 5px;color: #575757;padding: 5px 0;display: block;}
-.left.col-lg-3 {background: #eee;margin-top:0px;}
+.left.col-lg-3 {background: #fff;margin-top:0px;}
 .right.col-lg-3 {background: #fff;margin-top:0px;}
-.bg_color{background:#eee;padding:30px 0px 0px;}
+.bg_color{background:#fff;padding:30px 0px 0px;}
 .border_adj{border-bottom:2px solid #6A0E3D;display: block;overflow: hidden;}
 .myinbox h2{margin:0px;color:#6A0E3D;font-weight:600;padding-bottom:5px;font-size: 19px;text-transform: uppercase;}.border_adj i{padding-top:13px;font-size:25px;}
 .sub_inbox{border-bottom:1px solid #d4d4d4;display: block;overflow: hidden;}
@@ -97,3 +97,12 @@ p.user-default{width: 25px;height: 25px;line-height: 25px;text-transform: upperc
 
 .panel-panel.middle.col-lg-6 .view-content .views-field.views-field-title,
 .panel-panel.middle.col-lg-6 .views-field.views-field-created{padding: 0 15px;}
+
+#news, #announcements{background: #eee; border-top: 2px #87193e solid;}
+#news .right, #announcements .right{padding-left: 0;}
+#news .news-view .views-field-title .views-label-title {width: auto;float: left;font-weight: bold;font-size: 22px;padding: 0 5px;}
+#news .news-view h3 {background: #fff;margin: 0;height: 58px;}
+.node-type-news h1.page-header{display: none;}
+#news .attaches {border-top:1px solid #999999; }
+.nav-tabs {display: none; }
+.main-container{margin-top: 70px;}

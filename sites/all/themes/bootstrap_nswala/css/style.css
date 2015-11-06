@@ -170,6 +170,11 @@ h1.page-header{color: #fff;}
 #block-widgets-s-socialmedia-profile-default{text-align: right;display: block;}
 
 
+/*.panels-flexible-row-7-1-inside{background: #fff;}*/
+.pane-home-page-my-announcements .views-field.views-field-created{padding: 10px 15px 5px !important;}
+.pane-home-page-my-announcements views-field views-field-body{padding-bottom: 20px !important;}
+
+
 
 
 

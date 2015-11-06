@@ -32,7 +32,7 @@ background-size:100% auto;}
 .myinbox .views-row .field-content{margin: 0px;font-size: 11px;padding-bottom: 5px;color: #575757;padding:3px 0 5px;display: block;}
 .left.col-lg-3 {background: #fff;margin-top:0px;}
 .right.col-lg-3 {background: #fff;margin-top:0px;}
-.bg_color{background:#eee;padding:30px 15px 0px;}
+.bg_color{background:#fff;padding:30px 15px 0px;}
 .border_adj{border-bottom:2px solid #6A0E3D;display: block;overflow: hidden;}
 .myinbox h2{margin:0px;color:#6A0E3D;font-weight:600;padding-bottom:5px;font-size: 19px;text-transform: uppercase;}.border_adj i{padding-top:13px;font-size:25px;}
 .sub_inbox{border-bottom:1px solid #d4d4d4;display: block;overflow: hidden;}

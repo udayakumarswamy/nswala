@@ -155,10 +155,14 @@ ul.ajax-register-links.inline li a{color:#e6be58;}
 #block-menu-menu-footer-menu .block-title{display: none;}
 #block-menu-menu-footer-menu .nav>li>a:hover, .nav>li>a:focus{background: none;}
 
-.front.not-logged-in .main-container{width: 100%;margin: 0 !important;padding-top: 20%;background:rgba(204, 204, 204, 0.68);}
-.front.not-logged-in .main-container{width: 100%;max-width: 500px;margin: 0 auto;}
+.front.not-logged-in .main-container{margin: 0 !important;padding-top: 9%;background: rgba(0, 0, 0, 0.13);height: 88vh;position: relative;display: block;overflow: hidden;}
+.front.not-logged-in .main-container{width: 100%;max-width: 450px;margin: 0 auto;padding: 0 50px;}
 .front.not-logged-in .footer{width: 100%;position: fixed;bottom: 0;}
+.navbar{border: none;}
 
+.ajax-register-user-login-wrapper label{color: #D8D8D8;}
+h1.page-header{color: #fff;}
+.form-submit ajax-processed{background: #52092E;color: #fff;border: 1px solid #1F0713;}
 
 
 
